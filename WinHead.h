@@ -2,4 +2,4 @@
    WinHead.h - header file for WinHead.c
 */
 
-#define IDI_MYICON		101
+#define IDI_MYICON		69
